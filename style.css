@@ -24,8 +24,8 @@ a:visited{ color: darkblue;}
 
 p{text-indent: 2em; line-height:2em; padding: 5px 0;}
 
-.chnintro{position: absolute; display: block; margin-left:280px;margin-top: 60px; width: 1100px;  padding: 30px;
-		 text-align: justify; font-family: helvetica,"microsoft yahei";color: #222; font-size: 14px;  z-index: -1;  }
+.chnintro{position: absolute; display: block; margin-left:280px;margin-top: 60px; width: 700px;  padding: 30px;
+		 text-align: justify; font-family: helvetica,"microsoft yahei";color: #222; font-size: 14px;  }
 .chnintro2{position: absolute; display: block; margin-left:280px;margin-top: 60px; width: 1500px;  padding: 30px;
 		 text-align: justify; font-family: helvetica,"microsoft yahei";color: #222; font-size: 14px;  z-index: -1; }
 .chnintro2 ul{list-style: none;}
@@ -33,7 +33,7 @@ p{text-indent: 2em; line-height:2em; padding: 5px 0;}
 		 text-align: justify; font-family: helvetica,"microsoft yahei";color: #222; font-size: 14px;  z-index: -1; }
 .chnintro3 ul{list-style: none;}
 
-.englishintro{position: absolute; display: block; margin-left: 1450px;margin-top: 45px; width: 700px;  padding: 30px;
+.englishintro{position: absolute; display: block; margin-left: 1150px;margin-top: 45px; width:600px;  padding: 30px;
 		 text-indent: 2em; text-align: justify; font-family: helvetica; color: #222;font-size: 14px;  z-index: -1;}
 		 
 .newsbefore{position: absolute; display: block; margin-left: 300px;margin-top:  90px; width:900px; 
@@ -63,7 +63,7 @@ font-family: "century gothic","microsoft yahei";color: #333333; line-height: 2em
 #myTable{position:absolute; left:310px; top: 100px;font: "century gothic"; font-style= "color: #fff;"; 
 z-index: 1; table-layout: fixed;}
 #myTable2{position:absolute; left:310px; top: 100px;font: "century gothic","microsoft yahei";font-size: 14px; font-style= "color: #fff;"; 
-z-index: 1; }
+z-index: 1; text-align: justify;}
 #myTable2 a{ text-decoration: none; font-size: 16px; line-height: 2em; color: #333333; font-weight: 600;}
 #myTable2  span{ text-decoration: none; font-size: 14px; line-height: 2em;}
 
