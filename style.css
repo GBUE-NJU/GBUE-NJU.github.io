@@ -1,6 +1,6 @@
 *{ margin:0; padding:0;}
 	
-.left{position: fixed; float:left;top: 0; bottom: 0; width:180px; background:#999; border-right:0px #333 solid; }
+.left{position: fixed; float:left;top: 0; bottom: 0; width:180px; background:#999; border-right:0px #333 white; }
 #right{ overflow:hidden; 　scrollbar-face-color:#f60;　scrollbar-highlight-color:#F60;　scrollbar-3dlight-color:#f60;	　
 		scrollbar-darkshadow-color:#f60;　scrollbar-Shadow-color:#f60;　scrollbar-arrow-color:#000;　scrollbar-track-color:#fff;}
 
